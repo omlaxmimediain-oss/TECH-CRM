@@ -1,0 +1,72 @@
+
+============================================================
+CUSTOMERS
+============================================================
+1. Phone: 1234567890 | Name: 
+2. Phone: 8888881380 | Name: Jane Doe
+3. Phone: 8888881699 | Name: Jane Doe
+4. Phone: 8888882572 | Name: Jane Doe
+5. Phone: 8888882817 | Name: Jane Doe
+6. Phone: 8888884577 | Name: Jane Doe
+7. Phone: 8888884754 | Name: Jane Doe
+8. Phone: 8888884981 | Name: Jane Doe
+9. Phone: 8888885237 | Name: Jane Doe
+10. Phone: 8888885889 | Name: Jane Doe
+11. Phone: 8888885904 | Name: Jane Doe
+12. Phone: 8888888506 | Name: Jane Doe
+13. Phone: 8888889395 | Name: Jane Doe
+14. Phone: 8888889967 | Name: Jane Doe
+15. Phone: 9967396567 | Name: meme not
+16. Phone: 9999999002 | Name: Jane Doe
+
+Total Customers: 16
+
+============================================================
+TECHNICIANS
+============================================================
+1. Phone: 4848484848 | Name: tell | Status: OFFLINE
+2. Phone: 6666666666 | Name: raju | Status: ONLINE
+3. Phone: 9876543219 | Name: new | Status: ONLINE
+4. Phone: 9898989898 | Name: test | Status: OFFLINE
+5. Phone: 9999991380 | Name: John Tech | Status: ONLINE
+6. Phone: 9999991699 | Name: John Tech | Status: OFFLINE
+7. Phone: 9999992572 | Name: John Tech | Status: OFFLINE
+8. Phone: 9999992817 | Name: John Tech | Status: OFFLINE
+9. Phone: 9999994577 | Name: John Tech | Status: OFFLINE
+10. Phone: 9999994754 | Name: John Tech | Status: OFFLINE
+11. Phone: 9999994812 | Name: John Tech | Status: OFFLINE
+12. Phone: 9999994981 | Name: John Tech | Status: OFFLINE
+13. Phone: 9999995237 | Name: John Tech | Status: OFFLINE
+14. Phone: 9999995889 | Name: John Tech | Status: OFFLINE
+15. Phone: 9999995904 | Name: John Tech | Status: OFFLINE
+16. Phone: 9999998506 | Name: John Tech | Status: OFFLINE
+17. Phone: 9999999001 | Name: N/A | Status: OFFLINE
+18. Phone: 9999999043 | Name: John Tech | Status: ONLINE
+19. Phone: 9999999395 | Name: John Tech | Status: OFFLINE
+20. Phone: 9999999967 | Name: John Tech | Status: OFFLINE
+
+Total Technicians: 20
+
+============================================================
+ADMINS (for reference)
+============================================================
+1. Phone: 7777771380 | Name: System Admin
+2. Phone: 7777771699 | Name: System Admin
+3. Phone: 7777772572 | Name: System Admin
+4. Phone: 7777772817 | Name: System Admin
+5. Phone: 7777774577 | Name: System Admin
+6. Phone: 7777774754 | Name: System Admin
+7. Phone: 7777774812 | Name: System Admin
+8. Phone: 7777774981 | Name: System Admin
+9. Phone: 7777775237 | Name: System Admin
+10. Phone: 7777775889 | Name: System Admin
+11. Phone: 7777775904 | Name: System Admin
+12. Phone: 7777778506 | Name: System Admin
+13. Phone: 7777779043 | Name: System Admin
+14. Phone: 7777779395 | Name: System Admin
+15. Phone: 7777779967 | Name: System Admin
+16. Phone: 8888888888 | Name: Super Admin
+17. Phone: 9999999999 | Name: N/A
+
+Total Admins: 17
+============================================================
